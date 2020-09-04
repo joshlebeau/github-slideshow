@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I feel strongly both ways
 Use the left arrow to go back!
 
